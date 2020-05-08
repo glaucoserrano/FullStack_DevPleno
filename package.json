@@ -1,0 +1,29 @@
+{
+  "name": "mydailystatus",
+  "version": "1.0.0",
+  "description": "Curso DevPleno",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaucoserrano/FullStack_DevPleno.git"
+  },
+  "author": "Glauco Serrano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glaucoserrano/FullStack_DevPleno/issues"
+  },
+  "homepage": "https://github.com/glaucoserrano/FullStack_DevPleno#readme",
+  "dependencies": {
+    "next": "^9.3.6",
+    "postcss-import": "^12.0.1",
+    "postcss-preset-env": "^6.7.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "tailwindcss": "^1.4.5"
+  }
+}
